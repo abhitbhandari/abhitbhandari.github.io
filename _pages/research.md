@@ -6,7 +6,7 @@ sidebar:
   nav: "sidebar"
 ---
 
-# Publications
+## Publications
 
 ### **Substitutes For Rule of Law? How BITs Deepen But Do Not Broaden U.S. Investment in Developing Countries** (with Joonseok Yang). Forthcoming, *International Interactions.* <a href="https://www.tandfonline.com/doi/full/10.1080/03050629.2025.2564652" target="_blank" style="color:#ad0808; text-decoration:none; font-size:90%; font-weight:normal;">[Journal link]</a> <a href="/s/BhandariYang_BITs.pdf" target="_blank" style="color:#ad0808; text-decoration:none; font-size:90%; font-weight:normal;">[Ungated preprint]</a>
 
@@ -28,11 +28,11 @@ sidebar:
 
 
 
-# Book
+## Book project
 
 ### **Property Rights for Some: Political Connections and Markets Under Selective Rule of Law**
 
-# Working papers
+## Working papers
 
 ### **Access Denied: How Bureaucratic Partisanship and Gender Bias Prevent Private-Sector Development.** <a href="/s/Access_experiment_v6.pdf" target="_blank" style="color:#ad0808; text-decoration:none; font-size:90%; font-weight:normal;">[Download]</a>
 - Best paper award, Class and Inequality Section, APSA 2024
@@ -47,7 +47,7 @@ sidebar:
 
 
 
-# Research in progress
+## Research in progress
 
 
 ### **Political Formalization Cycles: How Political Uncertainty Can Promote Economic Development** (with Lucas Borba).
