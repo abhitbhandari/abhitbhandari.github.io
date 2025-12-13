@@ -7,8 +7,7 @@ sidebar:
   nav: "sidebar"
 ---
 
-<img src="/images/bhandari.jpg" class="headshot-right" alt="Abhit Bhandari">
-
+<img src="{{ '/images/bhandari.jpg' | relative_url }}" class="headshot-right" alt="Abhit Bhandari">
 
 Welcome! I am an Assistant Professor in the Department of Political Science at Vanderbilt University.
 
