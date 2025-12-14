@@ -47,3 +47,14 @@ img.headshot-right {
   margin-top: 0 !important;
   padding-top: 0 !important;
 }
+
+/* --- FOOTER CLEANUP --- */
+
+/* Remove footer nav / lists / icons */
+.page__footer nav,
+.page__footer ul,
+.page__footer li,
+.page__footer .social-icons {
+  display: none !important;
+}
+
