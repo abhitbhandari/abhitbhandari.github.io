@@ -58,3 +58,53 @@ img.headshot-right {
   display: none !important;
 }
 
+/* Remove the "Sitemap" line */
+.page__footer p:first-child {
+  display: none !important;
+}
+
+/* Keep copyright paragraph */
+.page__footer p {
+  display: block !important;
+  margin: 0.25rem 0 !important;
+}
+
+/* Optional: remove "Site last updated" */
+.page__footer p:last-child {
+  display: none !important;
+}
+
+/* Tighten spacing */
+.page__footer {
+  border-top: none !important;
+  padding-top: 0.75rem !important;
+}
+
+/* --- GLOBAL LINK COLOR OVERRIDE --- */
+
+/* Standard links */
+a {
+  color: #ad0808 !important;
+}
+
+/* Hover / focus */
+a:hover,
+a:focus {
+  color: #8f0606 !important; /* slightly darker for hover */
+  text-decoration: underline;
+}
+
+/* Visited links */
+a:visited {
+  color: #ad0808 !important;
+}
+
+/* Sidebar navigation links */
+.sidebar a {
+  color: #ad0808 !important;
+}
+
+/* Footer links (if any remain) */
+.page__footer a {
+  color: #ad0808 !important;
+}
