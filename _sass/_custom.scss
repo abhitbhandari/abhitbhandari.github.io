@@ -87,24 +87,3 @@ a {
   color: #ad0808 !important;
 }
 
-/* Hover / focus */
-a:hover,
-a:focus {
-  color: #8f0606 !important; /* slightly darker for hover */
-  text-decoration: underline;
-}
-
-/* Visited links */
-a:visited {
-  color: #ad0808 !important;
-}
-
-/* Sidebar navigation links */
-.sidebar a {
-  color: #ad0808 !important;
-}
-
-/* Footer links (if any remain) */
-.page__footer a {
-  color: #ad0808 !important;
-}
