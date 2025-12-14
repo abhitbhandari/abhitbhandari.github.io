@@ -23,6 +23,5 @@ I can be reached at
 </a>,
 and my CV can be found
 <a href="{{ '/files/Bhandari_CV.pdf' | relative_url }}" style="color:#ad0808;">
-  here
-</a>.
+  here.</a>
 
