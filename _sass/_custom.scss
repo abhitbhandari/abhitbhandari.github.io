@@ -48,35 +48,3 @@ img.headshot-right {
   padding-top: 0 !important;
 }
 
-/* --- FOOTER CLEANUP --- */
-
-/* Remove footer nav / lists / icons */
-.page__footer nav,
-.page__footer ul,
-.page__footer li,
-.page__footer .social-icons {
-  display: none !important;
-}
-
-/* Remove the "Sitemap" line */
-.page__footer p:first-child {
-  display: none !important;
-}
-
-/* Keep copyright paragraph */
-.page__footer p {
-  display: block !important;
-  margin: 0.25rem 0 !important;
-}
-
-/* Optional: remove "Site last updated" */
-.page__footer p:last-child {
-  display: none !important;
-}
-
-/* Tighten spacing */
-.page__footer {
-  border-top: none !important;
-  padding-top: 0.75rem !important;
-}
-
