@@ -55,14 +55,3 @@ img.headshot-right {
   line-height: 1.2;
 }
 
-
-/* Remove top gap on homepage */
-.page__content {
-  padding-top: 0 !important;
-  margin-top: 0 !important;
-}
-
-/* Also remove extra spacing before first paragraph */
-.page__content > p:first-of-type {
-  margin-top: 0 !important;
-}
