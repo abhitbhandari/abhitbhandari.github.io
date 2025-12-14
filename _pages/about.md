@@ -17,5 +17,12 @@ My work has been supported by the NSF Graduate Research Fellowship, the NSF DDRI
 
 I received my Ph.D. in Political Science from Columbia University. I previously worked for the West African headquarters of the UN World Food Programme, and received a B.A. in Political Science and African Studies from Northwestern University.
 
-I can be reached at [abhit.bhandari@vanderbilt.edu](mailto:abhit.bhandari@vanderbilt.edu), and my CV can be found [here](/files/Bhandari_CV.pdf).
+I can be reached at
+<a href="mailto:abhit.bhandari@vanderbilt.edu" style="color:#ad0808;">
+  abhit.bhandari@vanderbilt.edu
+</a>,
+and my CV can be found
+<a href="{{ '/files/Bhandari_CV.pdf' | relative_url }}" style="color:#ad0808;">
+  here
+</a>.
 
