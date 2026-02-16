@@ -15,7 +15,7 @@ layout: single
   </div>
   <details class="pub-abstract">
     <summary>Abstract</summary>
-    <div class="abstract-text">[Abstract text here]</div>
+    <div class="abstract-text">By specifying investment terms between signatory countries, bilateral investment treaties (BITs) can encourage foreign direct investment (FDI). Theory and evidence are less conclusive, however, for whether BITs substitute for or complement host countries' rule of law institutions. In this note, we investigate the differential interactive impact of BITs and institutions on multinational corporations' (MNCs) FDI decisions along the intensive and extensive margins of investment, which we argue results from firms' varying risk tolerances. Using investment data from U.S. MNCs, we find that BITs substitute rather than complement institutions, but solely along the intensive margin of investment. The evidence suggests that, while BITs in weak states improve confidence such that existing firms deepen their investments, these agreements are not strong enough to compel new firms to take on potentially risky investments. The most substantial substitutive effects are associated with judicial constraints, reflecting the particular utility of BITs in places with poor judicial institutions. We also find evidence suggesting that firms' differential start-up costs can moderate these effects. Overall, these findings show that BITs disproportionately spur FDI in weak judicial environments, while simultaneously demonstrating the importance of considering variation by investment margin.</div>
   </details>
 </div>
 
@@ -28,7 +28,7 @@ layout: single
   </div>
   <details class="pub-abstract">
     <summary>Abstract</summary>
-    <div class="abstract-text">[Abstract text here]</div>
+    <div class="abstract-text">Political accountability may be constrained by the reach and relevance of information campaigns in developing democracies and—upon receiving information—voters' ability and will to hold politicians accountable. To illuminate voter-level constraints and information relevance absent dissemination constraints, we conducted a field experiment around Senegal's 2017 parliamentary elections to examine the core theoretical steps linking receiving different types of incumbent performance information to electoral and non-electoral accountability. Voters immediately processed information as Bayesians, found temporally benchmarked local performance outcomes particularly informative, and updated their beliefs for at least a month. Learning that incumbents generally performed better than expected, voters durably requested greater politician contact after elections while incumbent vote choice increased among likely-voters and voters prioritizing local projects when appraising incumbents. In contrast, information about incumbent duties did not systematically influence beliefs or accountability. These findings suggest voters were able and mostly willing to use relevant information to hold politicians to account.</div>
   </details>
 </div>
 
@@ -41,7 +41,7 @@ layout: single
   </div>
   <details class="pub-abstract">
     <summary>Abstract</summary>
-    <div class="abstract-text">[Abstract text here]</div>
+    <div class="abstract-text">How do firms ensure secure exchange when the rule of law is weak and contracting institutions privilege the politically connected? In developing countries, firms may use social, formal, or political heuristics when selecting business partners, but how these factors jointly impact exchange remains understudied. In this article, I develop these theoretical mechanisms and test their impact with a conjoint experiment administered to 2,389 formal and informal firms in Senegal. I find evidence in support of all three theories: To varying degrees, social, state, and political factors simultaneously impact firms' sense of deal security and likelihood of exchange. The results demonstrate the substantial influence of formal predictors of exchange even in an overwhelmingly informal business environment, and also establish the countervailing effects of political connections on trade. These findings suggest that firms in developing countries must contend with an intricate political calculus to ensure their growth.</div>
   </details>
 </div>
 
@@ -61,7 +61,7 @@ layout: single
   </div>
   <details class="pub-abstract">
     <summary>Abstract</summary>
-    <div class="abstract-text">[Abstract text here]</div>
+    <div class="abstract-text">Economic growth requires confidence in the state's ability to enforce secure exchange. But when states selectively enforce rule of law, political considerations can moderate the trust that buyers have in sellers. I argue that political connections produce moral hazard in exchange because they introduce biases in expectations of judicial enforcement. Buyers avoid trade with politically connected sellers, and, in this context of unequal enforcement, formal contracts disproportionately protect politically connected buyers. To examine these features of connections and contracts, I created a sales business in Senegal and randomized whether employees signaled political connections and/or offered formal contracts during transactions. The results show that political connections decreased buyers' willingness to exchange. Formal contracts increased exchange, though primarily for connected buyers. These findings show that asymmetric political connections can impede daily trade and intensify economic inequalities in developing contexts, while simultaneously demonstrating the limits of state institutions for mitigating politically-driven moral hazard.</div>
   </details>
 </div>
 
@@ -77,7 +77,7 @@ layout: single
   </div>
   <details class="pub-abstract">
     <summary>Abstract</summary>
-    <div class="abstract-text">[Abstract text here]</div>
+    <div class="abstract-text">Scholars have long puzzled over strong nationalism in weak African states. Existing theories suggest that a) incumbent leaders use nationalistic appeals to distract people from state weakness; or b) citizens use nationalistic claims to exclude rival groups from accessing patronage and public goods. But what explains robust nationalism in places where politicians seldom visit and where the state under-provides resources, as is true across much of Africa? We propose a theory of familial nationalism, arguing that people profess attachment to a nation-family instead of to a nation-state under conditions where the family, and not the state, is the main lifeline. We substantiate it using surveys from the border between Niger and Burkina Faso, where an international court ruling allowed people to choose their citizenship, thus providing a test for nationalism in marginalized communities. We supplement the border data with surveys and focus groups from the capitals of both countries.</div>
   </details>
 </div>
 
@@ -99,7 +99,7 @@ layout: single
   <div class="pub-award">Best paper award, Class and Inequality Section, APSA 2024</div>
   <details class="pub-abstract">
     <summary>Abstract</summary>
-    <div class="abstract-text">[Abstract text here]</div>
+    <div class="abstract-text">Can bureaucratic bias generate inequality? The private sector is often promoted as a driver of equitable growth, yet bureaucratic discretion can determine who gains access to it. When public officials control key permits, private-sector opportunities may accrue to already privileged groups. I test how copartisanship and gender bias shape access to the private sector by creating a business in Senegal and conducting a field experiment that randomizes applicants' partisanship and gender during real permit applications at municipal councils. Copartisan applicants were substantially more permitted to submit their applications, while women faced higher rejection rates despite identical procedures as men. These biases operated primarily during initial face-to-face interactions rather than in later stages of processing. Structured text analysis and qualitative data further identify the mechanisms underlying discrimination. The results demonstrate how political and social privileges shape access to economic opportunity and suggest that curbing bureaucratic discretion can promote more equitable development.</div>
   </details>
 </div>
 
@@ -111,7 +111,7 @@ layout: single
   </div>
   <details class="pub-abstract">
     <summary>Abstract</summary>
-    <div class="abstract-text">[Abstract text here]</div>
+    <div class="abstract-text">There is high demand for clientelistic policy in low-income countries, which can distort politics and constrain economic growth. Firms in the informal economy form a particularly strong constituency for clientelism, as informal workers rely on forbearance and other targeted benefits. Because they form a sizable electoral bloc, however, informal workers possess the capacity to achieve programmatic policies that would serve them better in the long run. In this article, we examine whether informal workers' demand for clientelism can be attenuated. We implement an information experiment with firm owners ahead of Senegal's 2022 local elections, when an upstart political faction campaigned on programmatic policies. We find that when reminded of their coordination capacity, informal workers disengage from dominant clientelistic networks. However, this reduction does not translate into increased programmatic voting. These results demonstrate that while demand for clientelism can be mitigated, significant challenges remain in mobilizing informal workers toward programmatism.</div>
   </details>
 </div>
 
@@ -123,7 +123,7 @@ layout: single
   </div>
   <details class="pub-abstract">
     <summary>Abstract</summary>
-    <div class="abstract-text">[Abstract text here]</div>
+    <div class="abstract-text">How do citizens respond to cronyism and clientelism – not as voters, but as consumers? We argue that engaging in clientelistic electoral behavior imposes reputational costs on firms: by signaling a willingness to bend rules in the electoral arena, such behavior leads consumers to doubt firms' trustworthiness in market exchanges. Using evidence from an original survey and conjoint experiment in Morocco, we show that consumers avoid patronizing businesspeople who are politically active or have engaged in clientelistic behavior. Consumers with political connections, significant exposure to clientelism, and high trust in government are more willing to purchase from politically active businesspeople, however. A behavioral test with real financial stakes confirms these findings. Overall, these results suggest that reputational sanctions in the marketplace are an overlooked mechanism linking clientelism to stunted economic development in cronyist polities.</div>
   </details>
 </div>
 
@@ -134,7 +134,7 @@ layout: single
   </div>
   <details class="pub-abstract">
     <summary>Abstract</summary>
-    <div class="abstract-text">[Abstract text here]</div>
+    <div class="abstract-text">Policymakers encourage firms to formalize their business practices, expecting formal contracts will clarify dispute resolution, reduce forum shopping, and diminish informal political influence. But firms in developing economies challenge this assumption: I argue that expanding access to formal institutions can paradoxically deepen existing inequalities through the mechanism of political connections. I field a survey with an embedded experiment among 2,389 firms in Senegal's formal and informal economies to examine how formal contracts shape enforcement strategies. I find that contracts increase the use of courts and legal channels—particularly among formal and wealthy firms. Politically connected firms, by contrast, do not increase their use of formal enforcement. Instead, they become more likely to resolve disputes informally, leveraging their political ties outside the legal system. These findings suggest that expanding access to formal institutions can unintentionally deepen inequalities by displacing political influence into informal channels where it may be even harder to constrain.</div>
   </details>
 </div>
 
