@@ -3,8 +3,6 @@ layout: single
 title: ""
 permalink: /
 author_profile: true
-sidebar:
-  nav: "sidebar"
 ---
 
 <img src="{{ '/images/bhandari.jpg' | relative_url }}" class="headshot-right" alt="Abhit Bhandari">

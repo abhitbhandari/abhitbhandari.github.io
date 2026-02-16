@@ -12,25 +12,17 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Abhit Bhandari"
 title_separator          : "-"
 name                     : &name "Abhit Bhandari"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Abhit Bhandari's academic website"
 url                      : "https://abhitbhandari.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: single
-      sidebar:
-        nav: "sidebar"
-
+repository               : "abhitbhandari/abhitbhandari.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/bhandari.jpg"
+  avatar           : "bhandari.jpg"
   name             : "Abhit Bhandari"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of Political Science, Vanderbilt University"
@@ -226,24 +218,14 @@ kramdown:
   enable_coderay: false
 
 
-# These settings control the types of collections used by the template
-#collections:
-  #teaching:
-    #output: true
-    #permalink: /:collection/:path/
-  #publications:
-    #output: true
-    #permalink: /:collection/:path/
-  #portfolio:
-   # output: true
-    #permalink: /:collection/:path/
-  #talks:
-    #output: true
-    #permalink: /:collection/:path/
-
-
 # These settings control how pages and collections are included in the site
 defaults:
+  # Global sidebar nav
+  - scope:
+      path: ""
+    values:
+      sidebar:
+        nav: "sidebar"
   # _posts
   - scope:
       path: ""
@@ -262,41 +244,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-#  # _teaching
-#  - scope:
-#      path: ""
-#      type: teaching
-#    values:
-#      layout: single
-#      author_profile: true
-#      share: true
-#      comments: true
-#  # _publications
-#  - scope:
-#      path: ""
-#      type: publications
-#    values:
-#      layout: single
-#      author_profile: true
-#      share: true
-#      comments: true
-#  # _portfolio
-#  #- scope:
-#      path: ""
-#      type: portfolio
-#    values:
-#      layout: single
-#      author_profile: true
-#      share: true
-#      comment: true
-#  # _talks
-#  - scope:
-#      path: ""
-#      type: talks
-#    values:
-#      layout: talk
-#      author_profile: true
-#      share: true
 
 
 # Sass/SCSS
