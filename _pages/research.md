@@ -8,7 +8,7 @@ layout: single
 
 <div class="pub-entry">
   <div class="pub-title">Substitutes For Rule of Law? How BITs Deepen But Do Not Broaden U.S. Investment in Developing Countries</div>
-  <div class="pub-meta">With Joonseok Yang. Forthcoming, <em>International Interactions.</em></div>
+  <div class="pub-meta">With Joonseok Yang. 2025. <em>International Interactions.</em> 51(6): 1067-1088.</div>
   <div class="pub-links">
     <a href="https://www.tandfonline.com/doi/full/10.1080/03050629.2025.2564652" target="_blank">Journal</a>
     <a href="/files/BhandariYang_BITs.pdf" target="_blank">Preprint</a>
@@ -21,7 +21,7 @@ layout: single
 
 <div class="pub-entry">
   <div class="pub-title">Able and Mostly Willing: An Empirical Anatomy of Information's Effect on Voter-Driven Accountability in Senegal</div>
-  <div class="pub-meta">With Horacio Larreguy and John Marshall. 2023. <em>American Journal of Political Science</em> 67(4):1040–1066.</div>
+  <div class="pub-meta">With Horacio Larreguy and John Marshall. 2023. <em>American Journal of Political Science</em> 67(4): 1040–1066.</div>
   <div class="pub-links">
     <a href="https://onlinelibrary.wiley.com/doi/10.1111/ajps.12591" target="_blank">Journal</a>
     <a href="/files/Accountability_Senegal_Paper_v8.pdf" target="_blank">Preprint</a>
@@ -34,7 +34,7 @@ layout: single
 
 <div class="pub-entry">
   <div class="pub-title">Social, Formal, and Political Determinants of Trade Under Weak Rule of Law: Experimental Evidence from Senegalese Firms</div>
-  <div class="pub-meta">2023. <em>Comparative Political Studies</em> 56(2):163–192.</div>
+  <div class="pub-meta">2023. <em>Comparative Political Studies</em> 56(2): 163–192.</div>
   <div class="pub-links">
     <a href="https://journals.sagepub.com/doi/abs/10.1177/00104140221089648" target="_blank">Journal</a>
     <a href="/files/Senegal_firms_paper_v8.pdf" target="_blank">Preprint</a>
@@ -47,7 +47,7 @@ layout: single
 
 <div class="pub-entry">
   <div class="pub-title">Political Determinants of Economic Exchange: Evidence from a Business Experiment in Senegal</div>
-  <div class="pub-meta">2022. <em>American Journal of Political Science</em> 66(4):835–852.</div>
+  <div class="pub-meta">2022. <em>American Journal of Political Science</em> 66(4): 835–852.</div>
   <div class="pub-links">
     <a href="https://onlinelibrary.wiley.com/doi/10.1111/ajps.12593" target="_blank">Journal</a>
     <a href="/files/Bhandari_PAPS_RCT_v11.pdf" target="_blank">Preprint</a>
@@ -67,7 +67,7 @@ layout: single
 
 <div class="pub-entry">
   <div class="pub-title">Nation-State or Nation-Family? Nationalism in Marginalized African Societies</div>
-  <div class="pub-meta">With Lisa Mueller. 2019. <em>Journal of Modern African Studies</em> 57(2):297–322.</div>
+  <div class="pub-meta">With Lisa Mueller. 2019. <em>Journal of Modern African Studies</em> 57(2): 297–322.</div>
   <div class="pub-links">
     <a href="https://www.cambridge.org/core/journals/journal-of-modern-african-studies/article/nationstate-or-nationfamily-nationalism-in-marginalised-african-societies/BF68A611FE365112AF8D2C51E0ED6C4C" target="_blank">Journal</a>
     <a href="/files/BhandariMueller_nationalism.pdf" target="_blank">Preprint</a>
@@ -86,6 +86,7 @@ layout: single
 
 <div class="pub-entry">
   <div class="pub-title">Property Rights for Some: Political Connections and Markets Under Selective Rule of Law</div>
+  <div class="pub-meta"><em>Under Review</em></div>
   <details class="pub-abstract">
     <summary>Summary</summary>
     <div class="abstract-text"><em>Property Rights for Some</em> rethinks one of the most important variables in political economy—property rights—by shifting the focus from the societal to the individual level. The book argues that de jure and de facto property rights in weakly institutionalized settings are misaligned and theorizes the existence of politicized property rights, whereby everyday connections shape access to enforcement institutions and, in turn, trust in exchange. Exchange can be understood as a behavioral political outcome that reflects underlying trust in institutions and reveals variation within societies' distribution of property rights security. I use innovative methods to test the theory of politicized property rights, including creating and running my own business in Senegal to measure behavioral outcomes in market exchange. I also implemented large-scale surveys of firm owners (in both the formal and informal economies) and consumers and integrate significant qualitative and cross-national evidence throughout.</div>
@@ -150,7 +151,7 @@ layout: single
   </div>
   <details class="pub-abstract">
     <summary>Abstract</summary>
-    <div class="abstract-text">[Abstract text here]</div>
+    <div class="abstract-text">Although our understanding of the important role of broken institutions in economic development has grown significantly, we still lack a strong understanding ofthe mechanisms by which exclusionary political-economic arrangements reproducethemselves over time. To better undrstand this problem, we conducted online and offline experiments about political connections and early-stage career choices in a national sample of college-educated young people in Tunisia and Senegal. We first administered surveys with embedded conjoint experiments to 1,110 young people to assess the determinants of entrepreneurial intention. Next, we recruited arandomized subsample of survey respondents to participate in entrepreneurshiptraining sessions in Tunis and Dakar in which government oﬀicials offered adviceto young entrepreneurs. The survey results reveal that young people are uncer-tain whether connections will affect their career prospects, yet rate connections topolitical parties as the most valuable attribute a prospective entrepreneur couldpossess. Randomized training sessions increased entrepreneurs’ intention to createbusinesses, with 10-17% of this effect mediated by an exogenous increase in political connections. By demonstrating the powerful impact of political connectionson desires to enter the business world, these results suggest that entrepreneurship promotion efforts will be of limited value without providing access to relevant policymakers.</div>
   </details>
 </div>
 
