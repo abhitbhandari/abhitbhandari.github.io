@@ -13,4 +13,4 @@ I study comparative politics and the political economy of development, with a fo
 
 I received my Ph.D. in Political Science from Columbia University and a B.A. in Political Science and African Studies from Northwestern University.
 
-I can be reached at <a href="mailto:abhit.bhandari@vanderbilt.edu" style="color:#ad0808;">abhit.bhandari@vanderbilt.edu</a>, and my CV can be found <a href="{{ '/files/Bhandari_CV.pdf' | relative_url }}" style="color:#ad0808;">here</a>.
+I can be reached at <a href="mailto:abhit.bhandari@vanderbilt.edu" style="color:#ad0808;">abhit.bhandari@vanderbilt.edu</a>, and my CV can be found <a href="{{ '/files/Bhandari_CV.pdf' | relative_url }}" style="color:#ad0808;" target="_blank">here</a>.
