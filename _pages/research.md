@@ -4,6 +4,18 @@ permalink: /research/
 layout: single
 ---
 
+## Book
+
+<div class="pub-entry">
+  <div class="pub-title">Property Rights for Some: Political Connections and Markets Under Selective Rule of Law</div>
+  <div class="pub-meta"><em>Under contract at Cambridge University Press</em></div>
+  <details class="pub-abstract">
+    <summary>Summary</summary>
+    <div class="abstract-text"><em>Property Rights for Some</em> rethinks one of the most important variables in political economy—property rights—by shifting the focus from the societal to the individual level. The book argues that de jure and de facto property rights in weakly institutionalized settings are misaligned and theorizes the existence of politicized property rights, whereby everyday connections shape access to enforcement institutions and, in turn, trust in exchange. Exchange can be understood as a behavioral political outcome that reflects underlying trust in institutions and reveals variation within societies' distribution of property rights security. I use innovative methods to test the theory of politicized property rights, including creating and running my own business in Senegal to measure behavioral outcomes in market exchange. I also implemented large-scale surveys of firm owners (in both the formal and informal economies) and consumers and integrate significant qualitative and cross-national evidence throughout.</div>
+  </details>
+</div>
+
+
 ## Publications
 
 <div class="pub-entry">
@@ -78,18 +90,6 @@ layout: single
   <details class="pub-abstract">
     <summary>Abstract</summary>
     <div class="abstract-text">Scholars have long puzzled over strong nationalism in weak African states. Existing theories suggest that a) incumbent leaders use nationalistic appeals to distract people from state weakness; or b) citizens use nationalistic claims to exclude rival groups from accessing patronage and public goods. But what explains robust nationalism in places where politicians seldom visit and where the state under-provides resources, as is true across much of Africa? We propose a theory of familial nationalism, arguing that people profess attachment to a nation-family instead of to a nation-state under conditions where the family, and not the state, is the main lifeline. We substantiate it using surveys from the border between Niger and Burkina Faso, where an international court ruling allowed people to choose their citizenship, thus providing a test for nationalism in marginalized communities. We supplement the border data with surveys and focus groups from the capitals of both countries.</div>
-  </details>
-</div>
-
-
-## Book project
-
-<div class="pub-entry">
-  <div class="pub-title">Property Rights for Some: Political Connections and Markets Under Selective Rule of Law</div>
-  <div class="pub-meta"><em>Under Review</em></div>
-  <details class="pub-abstract">
-    <summary>Summary</summary>
-    <div class="abstract-text"><em>Property Rights for Some</em> rethinks one of the most important variables in political economy—property rights—by shifting the focus from the societal to the individual level. The book argues that de jure and de facto property rights in weakly institutionalized settings are misaligned and theorizes the existence of politicized property rights, whereby everyday connections shape access to enforcement institutions and, in turn, trust in exchange. Exchange can be understood as a behavioral political outcome that reflects underlying trust in institutions and reveals variation within societies' distribution of property rights security. I use innovative methods to test the theory of politicized property rights, including creating and running my own business in Senegal to measure behavioral outcomes in market exchange. I also implemented large-scale surveys of firm owners (in both the formal and informal economies) and consumers and integrate significant qualitative and cross-national evidence throughout.</div>
   </details>
 </div>
 
