@@ -100,7 +100,7 @@ layout: single
   <div class="pub-title">Private-Sector Support for Programmatic Candidates: Evidence from a Senegalese Election</div>
   <div class="pub-meta">With Lucas Borba and Jessica Gottlieb. R&R, <em>Political Science Research and Methods</em>. </div>
   <div class="pub-links">
-    <a href="/files/formality_and_programmatism_v4.pdf" target="_blank">Download</a>
+    <a href="/files/formality_and_programmatism_v6.pdf" target="_blank">Download</a>
   </div>
   <details class="pub-abstract">
     <summary>Abstract</summary>
