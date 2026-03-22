@@ -97,6 +97,18 @@ layout: single
 ## Working papers
 
 <div class="pub-entry">
+  <div class="pub-title">Private-Sector Support for Programmatic Candidates: Evidence from a Senegalese Election</div>
+  <div class="pub-meta">With Lucas Borba and Jessica Gottlieb. R&R, <em>Political Science Research and Methods</em>. </div>
+  <div class="pub-links">
+    <a href="/files/formality_and_programmatism_v4.pdf" target="_blank">Download</a>
+  </div>
+  <details class="pub-abstract">
+    <summary>Abstract</summary>
+    <div class="abstract-text">There is high demand for clientelistic policy in low-income countries, which can distort politics and constrain economic growth. Firms in the informal economy form a particularly strong constituency for clientelism, as informal workers rely on forbearance and other targeted benefits. Because they form a sizable electoral bloc, however, informal workers possess the capacity to achieve programmatic policies that would serve them better in the long run. In this article, we examine whether informal workers' demand for clientelism can be attenuated. We implement an information experiment with firm owners ahead of Senegal's 2022 local elections, when an upstart political faction campaigned on programmatic policies. We find that when reminded of their coordination capacity, informal workers disengage from dominant clientelistic networks. However, this reduction does not translate into increased programmatic voting. These results demonstrate that while demand for clientelism can be mitigated, significant challenges remain in mobilizing informal workers toward programmatism.</div>
+  </details>
+</div>
+
+<div class="pub-entry">
   <div class="pub-title">Access Denied: How Bureaucratic Partisanship and Gender Bias Prevent Private-Sector Development</div>
   <div class="pub-links">
     <a href="/files/Access_experiment_v6.pdf" target="_blank">Download</a>
@@ -108,17 +120,6 @@ layout: single
   </details>
 </div>
 
-<div class="pub-entry">
-  <div class="pub-title">Private-Sector Support for Programmatic Candidates: Evidence from a Senegalese Election</div>
-  <div class="pub-meta">With Lucas Borba and Jessica Gottlieb.</div>
-  <div class="pub-links">
-    <a href="/files/formality_and_programmatism_v4.pdf" target="_blank">Download</a>
-  </div>
-  <details class="pub-abstract">
-    <summary>Abstract</summary>
-    <div class="abstract-text">There is high demand for clientelistic policy in low-income countries, which can distort politics and constrain economic growth. Firms in the informal economy form a particularly strong constituency for clientelism, as informal workers rely on forbearance and other targeted benefits. Because they form a sizable electoral bloc, however, informal workers possess the capacity to achieve programmatic policies that would serve them better in the long run. In this article, we examine whether informal workers' demand for clientelism can be attenuated. We implement an information experiment with firm owners ahead of Senegal's 2022 local elections, when an upstart political faction campaigned on programmatic policies. We find that when reminded of their coordination capacity, informal workers disengage from dominant clientelistic networks. However, this reduction does not translate into increased programmatic voting. These results demonstrate that while demand for clientelism can be mitigated, significant challenges remain in mobilizing informal workers toward programmatism.</div>
-  </details>
-</div>
 
 <div class="pub-entry">
   <div class="pub-title">Political Connections, Patronage, and Consumer Attitudes: The Non-Electoral Consequences of Clientelism</div>
