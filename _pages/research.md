@@ -16,7 +16,7 @@ layout: single
 </div>
 
 
-## Publications
+## Articles
 
 <div class="pub-entry">
   <div class="pub-title">Substitutes For Rule of Law? How BITs Deepen But Do Not Broaden U.S. Investment in Developing Countries</div>
