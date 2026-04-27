@@ -109,6 +109,18 @@ layout: single
 </div>
 
 <div class="pub-entry">
+  <div class="pub-title">Political Connections, Patronage, and Consumer Attitudes: The Non-Electoral Consequences of Clientelism</div>
+  <div class="pub-meta">With Erin York. R&R, <em>World Development</em>. </div>
+  <div class="pub-links">
+    <a href="/files/BhandariYork_Morocco_v11.pdf" target="_blank">Download</a>
+  </div>
+  <details class="pub-abstract">
+    <summary>Abstract</summary>
+    <div class="abstract-text">How do citizens respond to cronyism and clientelism – not as voters, but as consumers? We argue that engaging in clientelistic electoral behavior imposes reputational costs on firms: by signaling a willingness to bend rules in the electoral arena, such behavior leads consumers to doubt firms' trustworthiness in market exchanges. Using evidence from an original survey and conjoint experiment in Morocco, we show that consumers avoid patronizing businesspeople who are politically active or have engaged in clientelistic behavior. Consumers with political connections, significant exposure to clientelism, and high trust in government are more willing to purchase from politically active businesspeople, however. A behavioral test with real financial stakes confirms these findings. Overall, these results suggest that reputational sanctions in the marketplace are an overlooked mechanism linking clientelism to stunted economic development in cronyist polities.</div>
+  </details>
+</div>
+
+<div class="pub-entry">
   <div class="pub-title">Access Denied: How Bureaucratic Partisanship and Gender Bias Prevent Private-Sector Development</div>
   <div class="pub-links">
     <a href="/files/Access_experiment_v6.pdf" target="_blank">Download</a>
@@ -120,18 +132,6 @@ layout: single
   </details>
 </div>
 
-
-<div class="pub-entry">
-  <div class="pub-title">Political Connections, Patronage, and Consumer Attitudes: The Non-Electoral Consequences of Clientelism</div>
-  <div class="pub-meta">With Erin York.</div>
-  <div class="pub-links">
-    <a href="/files/BhandariYork_Morocco_v11.pdf" target="_blank">Download</a>
-  </div>
-  <details class="pub-abstract">
-    <summary>Abstract</summary>
-    <div class="abstract-text">How do citizens respond to cronyism and clientelism – not as voters, but as consumers? We argue that engaging in clientelistic electoral behavior imposes reputational costs on firms: by signaling a willingness to bend rules in the electoral arena, such behavior leads consumers to doubt firms' trustworthiness in market exchanges. Using evidence from an original survey and conjoint experiment in Morocco, we show that consumers avoid patronizing businesspeople who are politically active or have engaged in clientelistic behavior. Consumers with political connections, significant exposure to clientelism, and high trust in government are more willing to purchase from politically active businesspeople, however. A behavioral test with real financial stakes confirms these findings. Overall, these results suggest that reputational sanctions in the marketplace are an overlooked mechanism linking clientelism to stunted economic development in cronyist polities.</div>
-  </details>
-</div>
 
 <div class="pub-entry">
   <div class="pub-title">Formalizing Inequality? Firms' Political Connections the Limits of Institutions in Developing Markets</div>
