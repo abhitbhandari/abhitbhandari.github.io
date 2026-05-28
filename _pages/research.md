@@ -121,6 +121,18 @@ layout: single
 </div>
 
 <div class="pub-entry">
+  <div class="pub-title">Formalizing Inequality? Firms' Political Connections the Limits of Institutions in Developing Markets</div>
+  <div class="pub-meta">R&R, <em>Business and Politics</em>. </div>
+  <div class="pub-links">
+    <a href="/files/Enforcement_Senegal_v8.pdf" target="_blank">Download</a>
+  </div>
+  <details class="pub-abstract">
+    <summary>Abstract</summary>
+    <div class="abstract-text">Policymakers encourage firms to formalize their business practices, expecting formal contracts will clarify dispute resolution, reduce forum shopping, and diminish informal political influence. But firms in developing economies challenge this assumption: I argue that expanding access to formal institutions can paradoxically deepen existing inequalities through the mechanism of political connections. I field a survey with an embedded experiment among 2,389 firms in Senegal's formal and informal economies to examine how formal contracts shape enforcement strategies. I find that contracts increase the use of courts and legal channels—particularly among formal and wealthy firms. Politically connected firms, by contrast, do not increase their use of formal enforcement. Instead, they become more likely to resolve disputes informally, leveraging their political ties outside the legal system. These findings suggest that expanding access to formal institutions can unintentionally deepen inequalities by displacing political influence into informal channels where it may be even harder to constrain.</div>
+  </details>
+</div>
+
+<div class="pub-entry">
   <div class="pub-title">Access Denied: How Bureaucratic Partisanship and Gender Bias Prevent Private-Sector Development</div>
   <div class="pub-links">
     <a href="/files/Access_experiment_v6.pdf" target="_blank">Download</a>
@@ -129,18 +141,6 @@ layout: single
   <details class="pub-abstract">
     <summary>Abstract</summary>
     <div class="abstract-text">Can bureaucratic bias generate inequality? The private sector is often promoted as a driver of equitable growth, yet bureaucratic discretion can determine who gains access to it. When public officials control key permits, private-sector opportunities may accrue to already privileged groups. I test how copartisanship and gender bias shape access to the private sector by creating a business in Senegal and conducting a field experiment that randomizes applicants' partisanship and gender during real permit applications at municipal councils. Copartisan applicants were substantially more permitted to submit their applications, while women faced higher rejection rates despite identical procedures as men. These biases operated primarily during initial face-to-face interactions rather than in later stages of processing. Structured text analysis and qualitative data further identify the mechanisms underlying discrimination. The results demonstrate how political and social privileges shape access to economic opportunity and suggest that curbing bureaucratic discretion can promote more equitable development.</div>
-  </details>
-</div>
-
-
-<div class="pub-entry">
-  <div class="pub-title">Formalizing Inequality? Firms' Political Connections the Limits of Institutions in Developing Markets</div>
-  <div class="pub-links">
-    <a href="/files/Enforcement_Senegal_v8.pdf" target="_blank">Download</a>
-  </div>
-  <details class="pub-abstract">
-    <summary>Abstract</summary>
-    <div class="abstract-text">Policymakers encourage firms to formalize their business practices, expecting formal contracts will clarify dispute resolution, reduce forum shopping, and diminish informal political influence. But firms in developing economies challenge this assumption: I argue that expanding access to formal institutions can paradoxically deepen existing inequalities through the mechanism of political connections. I field a survey with an embedded experiment among 2,389 firms in Senegal's formal and informal economies to examine how formal contracts shape enforcement strategies. I find that contracts increase the use of courts and legal channels—particularly among formal and wealthy firms. Politically connected firms, by contrast, do not increase their use of formal enforcement. Instead, they become more likely to resolve disputes informally, leveraging their political ties outside the legal system. These findings suggest that expanding access to formal institutions can unintentionally deepen inequalities by displacing political influence into informal channels where it may be even harder to constrain.</div>
   </details>
 </div>
 
