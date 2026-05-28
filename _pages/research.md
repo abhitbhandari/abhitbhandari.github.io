@@ -135,7 +135,7 @@ layout: single
 <div class="pub-entry">
   <div class="pub-title">Access Denied: How Bureaucratic Partisanship and Gender Bias Prevent Private-Sector Development</div>
   <div class="pub-links">
-    <a href="/files/Access_experiment_v6.pdf" target="_blank">Download</a>
+    <a href="/files/Access_experiment_v7.pdf" target="_blank">Download</a>
   </div>
   <div class="pub-award">Best paper award, Class and Inequality Section, APSA 2024</div>
   <details class="pub-abstract">
