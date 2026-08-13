@@ -1,3 +1,31 @@
+/* Force light mode: ignore the visitor's OS dark-mode preference.
+   The dark theme partial is no longer imported (see assets/css/main.scss), and
+   this pins the light palette even if html[data-theme="dark"] gets set by JS. */
+:root,
+html[data-theme="dark"] {
+  color-scheme: light;
+  --global-base-color                 : #7a8288;
+  --global-bg-color                   : #fff;
+  --global-footer-bg-color            : #f2f3f3;
+  --global-border-color               : #f2f3f3;
+  --global-dark-border-color          : #bdc1c4;
+  --global-code-background-color      : #fafafa;
+  --global-code-text-color            : #494e52;
+  --global-fig-caption-color          : #6f7478;
+  --global-link-color                 : #52adc8;
+  --global-link-color-hover           : #23606e;
+  --global-link-color-visited         : #6b9faa;
+  --global-masthead-link-color        : #494e52;
+  --global-masthead-link-color-hover  : #5c6166;
+  --global-text-color                 : #494e52;
+  --global-text-color-light           : #bdc1c4;
+  --global-thead-color                : #f2f3f3;
+}
+html[data-theme="dark"] body {
+  background-color: #fff;
+  color: #494e52;
+}
+
 /* Remove the entire avatar block (circle + placeholder) from sidebar */
 .sidebar .author__avatar,
 .sidebar .author__avatar * {

@@ -13,7 +13,7 @@
 
     "themes",
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+    // Dark theme intentionally not imported -- the site is light-only.
 
     "include/mixins",
     "vendor/susy/susy",
