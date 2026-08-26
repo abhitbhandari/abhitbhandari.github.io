@@ -9,7 +9,7 @@ layout: single
 
 <div class="pub-entry">
   <div class="pub-title">Property Rights for Some: How Everyday Political Connections Shape Modern Markets in Africa</div>
-  <div class="pub-meta">Under contract at Cambridge University Press</div>
+  <div class="pub-meta">Forthcoming at Cambridge University Press</div>
   <details class="pub-abstract">
     <summary>Summary</summary>
     <div class="abstract-text"><em>Property Rights for Some</em> argues that property rights in weakly institutionalized settings are best understood at the individual level. De jure rights apply to everyone in theory, while de facto rights in practice do not. I develop a theory of <em>political property rights</em>: the security over assets and transactions that emerges when access to enforcement depends on political ties. Everyday connections&mdash;a relative in a customs office, a former classmate at the tax agency&mdash;determine who can actually reach enforcement institutions, and in turn shape confidence in exchange. Exchange thus becomes a window onto politics, revealing how unevenly the security of property is distributed within a single society. To test this theory, I create and operate a business in Senegal to measure behavioral outcomes in market exchange, and also implement large-scale surveys of firm owners in both the formal and informal economies..</div>
