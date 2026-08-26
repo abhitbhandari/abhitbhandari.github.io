@@ -8,11 +8,11 @@ layout: single
 
 
 <div class="pub-entry">
-  <div class="pub-title">Property Rights for Some: Political Connections and Markets Under Selective Rule of Law</div>
+  <div class="pub-title">Property Rights for Some: How Everyday Political Connections Shape Modern Markets in Africa</div>
   <div class="pub-meta">Under contract at Cambridge University Press</div>
   <details class="pub-abstract">
     <summary>Summary</summary>
-    <div class="abstract-text"><em>Property Rights for Some</em> rethinks one of the most important variables in political economy—property rights—by shifting the focus from the societal to the individual level. The book argues that de jure and de facto property rights in weakly institutionalized settings are misaligned and theorizes the existence of politicized property rights, whereby everyday connections shape access to enforcement institutions and, in turn, trust in exchange. Exchange can be understood as a behavioral political outcome that reflects underlying trust in institutions and reveals variation within societies' distribution of property rights security. I use innovative methods to test the theory of politicized property rights, including creating and running my own business in Senegal to measure behavioral outcomes in market exchange. I also implemented large-scale surveys of firm owners (in both the formal and informal economies) and consumers and integrate significant qualitative and cross-national evidence throughout.</div>
+    <div class="abstract-text"><em>Property Rights for Some</em> argues that property rights in weakly institutionalized settings are best understood at the individual level. De jure rights apply to everyone in theory, while de facto rights in practice do not. I develop a theory of <em>political property rights</em>: the security over assets and transactions that emerges when access to enforcement depends on political ties. Everyday connections&mdash;a relative in a customs office, a former classmate at the tax agency&mdash;determine who can actually reach enforcement institutions, and in turn shape confidence in exchange. Exchange thus becomes a window onto politics, revealing how unevenly the security of property is distributed within a single society. To test this theory, I create and operate a business in Senegal to measure behavioral outcomes in market exchange, and also implement large-scale surveys of firm owners in both the formal and informal economies..</div>
   </details>
 </div>
 
@@ -23,7 +23,7 @@ layout: single
   <div class="pub-title">Private-Sector Support for Programmatic Candidates: Evidence from a Senegalese Election</div>
   <div class="pub-meta">With Lucas Borba and Jessica Gottlieb. Conditionally accepted, <em>Political Science Research and Methods</em>. </div>
   <div class="pub-links">
-    <a href="/files/formality_and_programmatism_v7.pdf" target="_blank">Download</a>
+    <a href="/files/formality_and_programmatism_v8.pdf" target="_blank">Download</a>
   </div>
   <details class="pub-abstract">
     <summary>Abstract</summary>
