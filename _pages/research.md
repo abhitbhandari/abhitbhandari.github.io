@@ -124,10 +124,10 @@ layout: single
 </div>
 
 <div class="pub-entry">
-  <div class="pub-title">Formalizing Inequality? Firms' Political Connections the Limits of Institutions in Developing Markets</div>
+  <div class="pub-title">Formalizing Inequality? Contract Formality and the Limits of Institutional Reform in Developing Markets</div>
   <div class="pub-meta">R&R, <em>Business and Politics</em>. </div>
   <div class="pub-links">
-    <a href="/files/Enforcement_Senegal_v8.pdf" target="_blank">Download</a>
+    <a href="/files/Enforcement_Senegal_v10.pdf" target="_blank">Download</a>
   </div>
   <details class="pub-abstract">
     <summary>Abstract</summary>
