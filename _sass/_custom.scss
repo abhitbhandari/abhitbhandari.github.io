@@ -83,74 +83,95 @@ img.headshot-right {
   line-height: 1.2;
 }
 
-/* ── Research page: section headings ── */
+/* ── Research page ── */
 
 .page__content h2 {
-  margin-top: 2.2rem;
-  padding-bottom: 0.35rem;
-  border-bottom: 2.5px solid #ad0808;
+  font-size: 1.15rem;
+  letter-spacing: 0.01em;
+  margin-top: 2.6rem;
+  margin-bottom: 1.05rem;
+  padding-bottom: 0.28rem;
+  border-bottom: 2px solid #ad0808;
   display: inline-block;
 }
-
-/* ── Research page: publication entries ── */
-
-.pub-entry {
-  margin-bottom: 1.6rem;
-  padding-bottom: 1.4rem;
-  border-bottom: 1px solid #e0e0e0;
+.page__content h2:first-of-type {
+  margin-top: 0.6rem;
 }
-.pub-entry:last-child {
-  border-bottom: none;
+
+/* Each entry reads as one flowing citation: no rules, no stacked blocks */
+.pub-entry {
+  margin-bottom: 1.15rem;
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+.pub-title,
+.pub-meta,
+.pub-links {
+  display: inline;
 }
 
 .pub-title {
-  font-size: 1.02rem;
-  font-weight: 700;
-  margin-bottom: 0.15rem;
+  font-weight: 650;
+}
+.pub-title::after {
+  content: ".";
+  font-weight: 400;
+}
+/* Entries whose citation continues with ", with <co-authors>" */
+.pub-title.pub-comma::after {
+  content: ",";
 }
 
 .pub-meta {
-  font-size: 0.92rem;
-  color: #444;
-  margin-bottom: 0.35rem;
+  color: inherit;
 }
 
-.pub-links {
-  margin-bottom: 0.3rem;
-}
+/* Understated inline links -- no pills, no borders */
 .pub-links a {
-  display: inline-block;
-  font-size: 0.78rem;
-  font-weight: 600;
+  font-size: 0.83em;
+  font-weight: 500;
   color: #ad0808;
-  border: 1.5px solid #ad0808;
-  border-radius: 999px;
-  padding: 0.15rem 0.65rem;
-  margin-right: 0.35rem;
-  margin-bottom: 0.25rem;
   text-decoration: none;
-  transition: background 0.15s, color 0.15s;
+  white-space: nowrap;
+  margin-left: 0.45em;
+}
+.pub-links a::before {
+  content: "[";
+}
+.pub-links a::after {
+  content: "]";
 }
 .pub-links a:hover {
-  background: #ad0808;
-  color: #fff;
+  text-decoration: underline;
 }
 
+/* Awards and press: quiet secondary line */
 .pub-award {
-  font-size: 0.82rem;
-  color: #555;
-  margin-bottom: 0.25rem;
+  font-size: 0.83em;
+  color: #6a6a6a;
+  margin-top: 0.1rem;
+  line-height: 1.5;
+}
+.pub-award a {
+  color: #ad0808 !important;
+  text-decoration: none;
+}
+.pub-award a:hover {
+  text-decoration: underline;
 }
 
+/* Abstract disclosure */
 details.pub-abstract {
-  margin-top: 0.35rem;
+  margin-top: 0.1rem;
 }
 details.pub-abstract summary {
-  font-size: 0.82rem;
-  font-weight: 600;
+  font-size: 0.83em;
+  font-weight: 500;
   color: #ad0808;
   cursor: pointer;
   list-style: none;
+  display: inline-block;
 }
 details.pub-abstract summary::-webkit-details-marker {
   display: none;
@@ -162,11 +183,12 @@ details.pub-abstract[open] summary::before {
   content: "▾ ";
 }
 details.pub-abstract .abstract-text {
-  font-size: 0.88rem;
-  color: #333;
+  font-size: 0.9em;
+  color: #444;
   margin-top: 0.4rem;
-  padding-left: 0.5rem;
-  border-left: 2px solid #ddd;
-  line-height: 1.55;
+  margin-bottom: 0.5rem;
+  padding-left: 0.7rem;
+  border-left: 2px solid #e2e2e2;
+  line-height: 1.6;
+  max-width: 46rem;
 }
-

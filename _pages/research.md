@@ -20,8 +20,8 @@ layout: single
 ## Articles
 
 <div class="pub-entry">
-  <div class="pub-title">Private-Sector Support for Programmatic Candidates: Evidence from a Senegalese Election</div>
-  <div class="pub-meta">With Lucas Borba and Jessica Gottlieb. Conditionally accepted, <em>Political Science Research and Methods</em>. </div>
+  <div class="pub-title pub-comma">Private-Sector Support for Programmatic Candidates: Evidence from a Senegalese Election</div>
+  <div class="pub-meta">with Lucas Borba and Jessica Gottlieb. Conditionally accepted, <em>Political Science Research and Methods</em>.</div>
   <div class="pub-links">
     <a href="/files/formality_and_programmatism_v8.pdf" target="_blank">Download</a>
   </div>
@@ -33,8 +33,8 @@ layout: single
 
 
 <div class="pub-entry">
-  <div class="pub-title">Substitutes For Rule of Law? How BITs Deepen But Do Not Broaden U.S. Investment in Developing Countries</div>
-  <div class="pub-meta">With Joonseok Yang. 2025. <em>International Interactions.</em> 51(6): 1067-1088.</div>
+  <div class="pub-title pub-comma">Substitutes For Rule of Law? How BITs Deepen But Do Not Broaden U.S. Investment in Developing Countries</div>
+  <div class="pub-meta">with Joonseok Yang. 2025. <em>International Interactions.</em> 51(6): 1067-1088.</div>
   <div class="pub-links">
     <a href="https://www.tandfonline.com/doi/full/10.1080/03050629.2025.2564652" target="_blank">Journal</a>
     <a href="/files/BhandariYang_BITs.pdf" target="_blank">Preprint</a>
@@ -46,8 +46,8 @@ layout: single
 </div>
 
 <div class="pub-entry">
-  <div class="pub-title">Able and Mostly Willing: An Empirical Anatomy of Information's Effect on Voter-Driven Accountability in Senegal</div>
-  <div class="pub-meta">With Horacio Larreguy and John Marshall. 2023. <em>American Journal of Political Science</em> 67(4): 1040–1066.</div>
+  <div class="pub-title pub-comma">Able and Mostly Willing: An Empirical Anatomy of Information's Effect on Voter-Driven Accountability in Senegal</div>
+  <div class="pub-meta">with Horacio Larreguy and John Marshall. 2023. <em>American Journal of Political Science</em> 67(4): 1040–1066.</div>
   <div class="pub-links">
     <a href="https://onlinelibrary.wiley.com/doi/10.1111/ajps.12591" target="_blank">Journal</a>
     <a href="/files/Accountability_Senegal_Paper_v8.pdf" target="_blank">Preprint</a>
@@ -92,8 +92,8 @@ layout: single
 </div>
 
 <div class="pub-entry">
-  <div class="pub-title">Nation-State or Nation-Family? Nationalism in Marginalized African Societies</div>
-  <div class="pub-meta">With Lisa Mueller. 2019. <em>Journal of Modern African Studies</em> 57(2): 297–322.</div>
+  <div class="pub-title pub-comma">Nation-State or Nation-Family? Nationalism in Marginalized African Societies</div>
+  <div class="pub-meta">with Lisa Mueller. 2019. <em>Journal of Modern African Studies</em> 57(2): 297–322.</div>
   <div class="pub-links">
     <a href="https://www.cambridge.org/core/journals/journal-of-modern-african-studies/article/nationstate-or-nationfamily-nationalism-in-marginalised-african-societies/BF68A611FE365112AF8D2C51E0ED6C4C" target="_blank">Journal</a>
     <a href="/files/BhandariMueller_nationalism.pdf" target="_blank">Preprint</a>
@@ -112,8 +112,8 @@ layout: single
 
 
 <div class="pub-entry">
-  <div class="pub-title">Political Connections, Patronage, and Consumer Attitudes: The Non-Electoral Consequences of Clientelism</div>
-  <div class="pub-meta">With Erin York. R&R, <em>World Development</em>. </div>
+  <div class="pub-title pub-comma">Political Connections, Patronage, and Consumer Attitudes: The Non-Electoral Consequences of Clientelism</div>
+  <div class="pub-meta">with Erin York. R&R, <em>World Development</em>.</div>
   <div class="pub-links">
     <a href="/files/BhandariYork_Morocco_v11.pdf" target="_blank">Download</a>
   </div>
@@ -125,7 +125,7 @@ layout: single
 
 <div class="pub-entry">
   <div class="pub-title">Formalizing Inequality? Contract Formality and the Limits of Institutional Reform in Developing Markets</div>
-  <div class="pub-meta">R&R, <em>Business and Politics</em>. </div>
+  <div class="pub-meta">R&R, <em>Business and Politics</em>.</div>
   <div class="pub-links">
     <a href="/files/Enforcement_Senegal_v10.pdf" target="_blank">Download</a>
   </div>
@@ -148,8 +148,8 @@ layout: single
 </div>
 
 <div class="pub-entry">
-  <div class="pub-title">The Political Nature of Entrepreneurship in Developing Countries: Experimental Evidence from Tunisia and Senegal</div>
-  <div class="pub-meta">With Robert Kubinec, Sekou Jabateh, and Hamza Mighri.</div>
+  <div class="pub-title pub-comma">The Political Nature of Entrepreneurship in Developing Countries: Experimental Evidence from Tunisia and Senegal</div>
+  <div class="pub-meta">with Robert Kubinec, Sekou Jabateh, and Hamza Mighri.</div>
   <div class="pub-links">
     <a href="https://osf.io/preprints/osf/unby5_v1" target="_blank">Download</a>
   </div>
@@ -167,33 +167,41 @@ layout: single
 </div>
 
 <div class="pub-entry">
-  <div class="pub-title">How Chinese Economic Interests Shape Legislative Behavior in Africa: Evidence from Zambia's Parliament (with Donghyun Danny Choi)</div>
+  <div class="pub-title pub-comma">How Chinese Economic Interests Shape Legislative Behavior in Africa: Evidence from Zambia's Parliament</div>
+  <div class="pub-meta">with Donghyun Danny Choi.</div>
 </div>
 
 <div class="pub-entry">
-  <div class="pub-title">Overlapping Networks of Political Power (with Jennifer Larson)</div>
+  <div class="pub-title pub-comma">Overlapping Networks of Political Power</div>
+  <div class="pub-meta">with Jennifer Larson.</div>
 </div>
 
 <div class="pub-entry">
-  <div class="pub-title">Protest as a Shock to Economic Exchange: Trust and Trading Behavior in Senegal (with Lisa Mueller)</div>
+  <div class="pub-title pub-comma">Protest as a Shock to Economic Exchange: Trust and Trading Behavior in Senegal</div>
+  <div class="pub-meta">with Lisa Mueller.</div>
 </div>
 
 <div class="pub-entry">
-  <div class="pub-title">Political Formalization Cycles: How Political Uncertainty Can Promote Economic Development (with Lucas Borba and Guilherme Fasolin)</div>
+  <div class="pub-title pub-comma">Political Formalization Cycles: How Political Uncertainty Can Promote Economic Development</div>
+  <div class="pub-meta">with Lucas Borba and Guilherme Fasolin.</div>
 </div>
 
 <div class="pub-entry">
-  <div class="pub-title">Fiscal Shocks and Political Futures: Exogenous Windfalls and Withdrawals of Rural Tax Revenue in Brazil (with Lucas Borba and Guilherme Fasolin)</div>
+  <div class="pub-title pub-comma">Fiscal Shocks and Political Futures: Exogenous Windfalls and Withdrawals of Rural Tax Revenue in Brazil</div>
+  <div class="pub-meta">with Lucas Borba and Guilherme Fasolin.</div>
 </div>
 
 <div class="pub-entry">
-  <div class="pub-title">No Trust, No Deal: How Political Mistrust Constrains Markets in the Global South (with Erin York)</div>
+  <div class="pub-title pub-comma">No Trust, No Deal: How Political Mistrust Constrains Markets in the Global South</div>
+  <div class="pub-meta">with Erin York.</div>
 </div>
 
 <div class="pub-entry">
-  <div class="pub-title">The Economic Costs of Favoritism (with Horacio Larreguy)</div>
+  <div class="pub-title pub-comma">The Economic Costs of Favoritism</div>
+  <div class="pub-meta">with Horacio Larreguy.</div>
 </div>
 
 <div class="pub-entry">
-  <div class="pub-title">Economics, Politics, and the Rule of Law: An Experiment in Formalization (with Jessica Gottlieb)</div>
+  <div class="pub-title pub-comma">Economics, Politics, and the Rule of Law: An Experiment in Formalization</div>
+  <div class="pub-meta">with Jessica Gottlieb.</div>
 </div>
