@@ -106,89 +106,111 @@ img.headshot-right {
 }
 
 .pub-title,
-.pub-meta,
-.pub-links {
+.pub-meta {
   display: inline;
 }
 
 .pub-title {
   font-weight: 650;
 }
+/* NB: the trailing space is load-bearing. Production builds run compress_html
+   (see _config.yml), which strips the whitespace between these inline divs, so
+   the separator space must come from CSS rather than from the HTML source. */
 .pub-title::after {
-  content: ".";
+  content: ". ";
   font-weight: 400;
 }
 /* Entries whose citation continues with ", with <co-authors>" */
 .pub-title.pub-comma::after {
-  content: ",";
+  content: ", ";
 }
 
 .pub-meta {
   color: inherit;
 }
 
-/* Understated inline links -- no pills, no borders */
-.pub-links a {
+/* ---- Tools row: [Abstract] [Journal] [Preprint], directly under the citation ---- */
+
+.pub-tools {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 0.4em;
+  row-gap: 0.1rem;
+  margin-top: 0.15rem;
+}
+
+/* Unwrap .pub-links so its <a>s are items of the row itself.
+   NB: do NOT use display:contents on <details> -- its UA shadow slot survives
+   as a phantom flex item and doubles the gap after the toggle. The <details>
+   holds only the <summary>; the body sits beside it as .abstract-text. */
+.pub-tools .pub-links {
+  display: contents;
+}
+
+.pub-links a,
+details.pub-abstract summary {
   font-size: 0.83em;
   font-weight: 500;
   color: #ad0808;
   text-decoration: none;
   white-space: nowrap;
-  margin-left: 0.45em;
-}
-.pub-links a::before {
-  content: "[";
-}
-.pub-links a::after {
-  content: "]";
-}
-.pub-links a:hover {
-  text-decoration: underline;
-}
-
-/* Awards and press: quiet secondary line */
-.pub-award {
-  font-size: 0.83em;
-  color: #6a6a6a;
-  margin-top: 0.1rem;
-  line-height: 1.5;
-}
-.pub-award a {
-  color: #ad0808 !important;
-  text-decoration: none;
-}
-.pub-award a:hover {
-  text-decoration: underline;
-}
-
-/* Abstract disclosure */
-details.pub-abstract {
-  margin-top: 0.1rem;
-}
-details.pub-abstract summary {
-  font-size: 0.83em;
-  font-weight: 500;
-  color: #ad0808;
   cursor: pointer;
   list-style: none;
-  display: inline-block;
+}
+.pub-links a::before,
+details.pub-abstract summary::before {
+  content: "[";
+}
+.pub-links a::after,
+details.pub-abstract summary::after {
+  content: "]";
+}
+.pub-links a:hover,
+details.pub-abstract summary:hover {
+  text-decoration: underline;
 }
 details.pub-abstract summary::-webkit-details-marker {
   display: none;
 }
-details.pub-abstract summary::before {
-  content: "▸ ";
-}
-details.pub-abstract[open] summary::before {
-  content: "▾ ";
-}
-details.pub-abstract .abstract-text {
+
+/* Abstract body always breaks to its own full-width row beneath the toggles */
+.pub-tools .abstract-text {
+  flex: 1 0 100%;
   font-size: 0.9em;
   color: #444;
   margin-top: 0.4rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.2rem;
   padding-left: 0.7rem;
   border-left: 2px solid #e2e2e2;
   line-height: 1.6;
   max-width: 46rem;
+}
+/* The body lives outside <details>, so the disclosure state is applied here */
+details.pub-abstract:not([open]) ~ .abstract-text {
+  display: none;
+}
+
+/* Awards and press: quiet secondary lines under the tools row */
+.pub-award,
+.pub-press {
+  font-size: 0.83em;
+  color: #6a6a6a;
+  margin-top: 0.15rem;
+  line-height: 1.5;
+}
+/* Awards carry a little more weight than the press line -- but stay below the
+   title's 650 so they never compete with it */
+.pub-award {
+  font-weight: 600;
+  color: #5a5a5a;
+}
+.pub-award a,
+.pub-press a {
+  color: #ad0808 !important;
+  text-decoration: none;
+}
+.pub-award a:hover,
+.pub-press a:hover {
+  text-decoration: underline;
 }
