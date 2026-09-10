@@ -22,7 +22,7 @@ repository               : "abhitbhandari/abhitbhandari.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bhandari.jpg"
+  avatar           : # hidden by _custom.scss; leave blank so it is not fetched
   name             : "Abhit Bhandari"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of Political Science, Vanderbilt University"

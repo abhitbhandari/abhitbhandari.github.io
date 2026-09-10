@@ -4,7 +4,7 @@ permalink: /
 author_profile: true
 ---
 
-<img src="{{ '/images/bhandari.jpg' | relative_url }}" class="headshot-right" alt="Abhit Bhandari">
+<img src="{{ '/images/bhandari-web.jpg' | relative_url }}" class="headshot-right" alt="Abhit Bhandari">
 I'm an Assistant Professor in the Department of Political Science at Vanderbilt University. I study comparative politics and the political economy of development, with a geographic focus in sub-Saharan Africa.
 
 My research examines the interplay between politics and business. I'm especially interested in how political inequalities translate into economic ones in the form of uneven market participation, access to economic opportunity, and patterns of development. My work draws on extensive fieldwork across Africa and uses field experiments, original surveys, and causal inference with observational data.
