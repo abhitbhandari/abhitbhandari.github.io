@@ -4,7 +4,7 @@ permalink: /research/
 layout: single
 ---
 
-## Book
+## Books
 
 
 <div class="pub-entry">
