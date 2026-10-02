@@ -20,6 +20,10 @@ layout: single
 <div class="pub-entry">
   <div class="pub-title pub-comma">Making it Big: How Entrepreneurs Overcome Political Barriers in the Global South</div>
   <div class="pub-meta">with Robert Kubinec. In progress; book workshop scheduled May 2027.</div>
+  <div class="pub-tools">
+    <details class="pub-abstract"><summary>Summary</summary></details>
+    <div class="abstract-text">Throughout the Global South, the nature of business is changing. Gone are the days of trade defined by village-level markets; incubators and startups now dot the entrepreneurial landscape. Young entrepreneurs are entering the private sector at breakneck pace, but they face roadblocks: making it big in an extractive institutional system can be difficult. Prior research shows how entrepreneurs use social and political connections to overcome regulatory barriers, access credit, and resist competitors&mdash;but these connections are rarely distributed equitably, and wide swaths of the population find themselves excluded from the potential riches the private sector offers. Nevertheless, some entrepreneurs succeed despite the extractive system they must navigate. In this book, we study a cohort of young potential entrepreneurs in Senegal, Egypt, and Tunisia with varying social and political connections to understand who succeeds, who does not, and what underlying variables predict these outcomes. We follow these entrepreneurs throughout their early careers, tracking their success over time using fine-grained survey data, conjoint and field experiments, and qualitative interviews. We argue that changing the composition of future business elites is an underexplored path for how political-economic institutions might change over time.</div>
+  </div>
 </div>
 
 
