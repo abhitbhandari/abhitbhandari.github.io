@@ -17,11 +17,17 @@ layout: single
 </div>
 
 
+<div class="pub-entry">
+  <div class="pub-title pub-comma">Making it Big: How Entrepreneurs Overcome Political Barriers in the Global South</div>
+  <div class="pub-meta">with Robert Kubinec. In progress; book workshop scheduled May 2027.</div>
+</div>
+
+
 ## Articles
 
 <div class="pub-entry">
   <div class="pub-title pub-comma">Private-Sector Support for Programmatic Candidates: Evidence from a Senegalese Election</div>
-  <div class="pub-meta">with Lucas Borba and Jessica Gottlieb. Conditionally accepted, <em>Political Science Research and Methods</em>.</div>
+  <div class="pub-meta">with Lucas Borba and Jessica Gottlieb. Forthcoming at <em>Political Science Research and Methods</em>.</div>
   <div class="pub-tools">
     <details class="pub-abstract"><summary>Abstract</summary></details>
     <div class="pub-links">
@@ -163,7 +169,7 @@ layout: single
 ## Research in progress
 
 <div class="pub-entry">
-  <div class="pub-title">Who Becomes a Bureaucrat? How Bureaucratic Backgrounds Shape Access to Economic Opportunity in Senegal</div>
+  <div class="pub-title">Who Becomes a Bureaucrat? How Civil Servants’ Backgrounds Shape Economic Opportunity in Senegal</div>
 </div>
 
 <div class="pub-entry">

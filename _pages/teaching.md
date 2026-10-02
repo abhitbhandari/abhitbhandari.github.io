@@ -6,7 +6,7 @@ layout: single
 
 ### As instructor
 
-- **Contemporary African Politics** (Undergraduate lecture)
+- **African Politics** (Undergraduate lecture)
 - **Comparative Politics of Developing Countries** (Undergraduate lecture)
 - **Business and Politics in the Global South** (Undergraduate seminar)
 - **Studies in Comparative Analysis** (Ph.D. comparative politics field seminar)
