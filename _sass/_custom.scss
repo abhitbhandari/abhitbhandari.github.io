@@ -205,6 +205,18 @@ details.pub-abstract:not([open]) ~ .abstract-text {
   font-weight: 600;
   color: #5a5a5a;
 }
+/* Bulleted so they read as distinct from the citation above */
+.pub-award,
+.pub-press {
+  position: relative;
+  padding-left: 1.1em;
+}
+.pub-award::before,
+.pub-press::before {
+  content: "\2022";
+  position: absolute;
+  left: 0.3em;
+}
 .pub-award a,
 .pub-press a {
   color: #ad0808 !important;
