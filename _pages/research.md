@@ -30,6 +30,19 @@ layout: single
 ## Articles
 
 <div class="pub-entry">
+  <div class="pub-title">Formalizing Inequality? Contract Formality and the Limits of Institutional Reform in Developing Markets</div>
+  <div class="pub-meta">Forthcoming at <em>Business and Politics</em>.</div>
+  <div class="pub-tools">
+    <details class="pub-abstract"><summary>Abstract</summary></details>
+    <div class="pub-links">
+      <a href="/files/Enforcement_Senegal_v10.pdf" target="_blank">Download</a>
+    </div>
+    <div class="abstract-text">Policymakers encourage firms to formalize their business practices, expecting formal contracts will clarify dispute resolution, reduce forum shopping, and diminish informal political influence. But firms in developing economies challenge this assumption: I argue that expanding access to formal institutions can paradoxically deepen existing inequalities through the mechanism of political connections. I field a survey with an embedded experiment among 2,389 firms in Senegal's formal and informal economies to examine how formal contracts shape enforcement strategies. I find that contracts increase the use of courts and legal channels—particularly among formal and wealthy firms. Politically connected firms, by contrast, do not increase their use of formal enforcement. Instead, they become more likely to resolve disputes informally, leveraging their political ties outside the legal system. These findings suggest that expanding access to formal institutions can unintentionally deepen inequalities by displacing political influence into informal channels where it may be even harder to constrain.</div>
+  </div>
+</div>
+
+
+<div class="pub-entry">
   <div class="pub-title pub-comma">Private-Sector Support for Programmatic Candidates: Evidence from a Senegalese Election</div>
   <div class="pub-meta">with Lucas Borba and Jessica Gottlieb. Forthcoming at <em>Political Science Research and Methods</em>.</div>
   <div class="pub-tools">
@@ -133,17 +146,6 @@ layout: single
   </div>
 </div>
 
-<div class="pub-entry">
-  <div class="pub-title">Formalizing Inequality? Contract Formality and the Limits of Institutional Reform in Developing Markets</div>
-  <div class="pub-meta">R&R, <em>Business and Politics</em>.</div>
-  <div class="pub-tools">
-    <details class="pub-abstract"><summary>Abstract</summary></details>
-    <div class="pub-links">
-      <a href="/files/Enforcement_Senegal_v10.pdf" target="_blank">Download</a>
-    </div>
-    <div class="abstract-text">Policymakers encourage firms to formalize their business practices, expecting formal contracts will clarify dispute resolution, reduce forum shopping, and diminish informal political influence. But firms in developing economies challenge this assumption: I argue that expanding access to formal institutions can paradoxically deepen existing inequalities through the mechanism of political connections. I field a survey with an embedded experiment among 2,389 firms in Senegal's formal and informal economies to examine how formal contracts shape enforcement strategies. I find that contracts increase the use of courts and legal channels—particularly among formal and wealthy firms. Politically connected firms, by contrast, do not increase their use of formal enforcement. Instead, they become more likely to resolve disputes informally, leveraging their political ties outside the legal system. These findings suggest that expanding access to formal institutions can unintentionally deepen inequalities by displacing political influence into informal channels where it may be even harder to constrain.</div>
-  </div>
-</div>
 
 <div class="pub-entry">
   <div class="pub-title">Access Denied: How Bureaucratic Partisanship and Gender Bias Prevent Private-Sector Development</div>
