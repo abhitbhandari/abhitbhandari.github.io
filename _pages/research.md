@@ -48,8 +48,8 @@ layout: single
   <div class="pub-tools">
     <details class="pub-abstract"><summary>Abstract</summary></details>
     <div class="pub-links">
-            <a href="https://doi.org/10.1017/psrm.2026.10137" target="_blank">Journal</a>
-      <a href="/files/formality_and_programmatism_v8.pdf" target="_blank”>Preprint</a>
+      <a href="https://doi.org/10.1017/psrm.2026.10137" target="_blank">Journal</a>
+      <a href="/files/formality_and_programmatism_v8.pdf" target="_blank">Preprint</a>
     </div>
     <div class="abstract-text">There is high demand for clientelistic policy in low-income countries, which can distort politics and constrain economic growth. Firms in the informal economy form a particularly strong constituency for clientelism, as informal workers rely on forbearance and other targeted benefits. Because they form a sizable electoral bloc, however, informal workers possess the capacity to achieve programmatic policies that would serve them better in the long run. In this article, we examine whether informal workers' demand for clientelism can be attenuated. We implement an information experiment with firm owners ahead of Senegal's 2022 local elections, when an upstart political faction campaigned on programmatic policies. We find that when reminded of their coordination capacity, informal workers disengage from dominant clientelistic networks. However, this reduction does not translate into increased programmatic voting. These results demonstrate that while demand for clientelism can be mitigated, significant challenges remain in mobilizing informal workers toward programmatism.</div>
   </div>
